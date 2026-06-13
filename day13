@@ -1,0 +1,13 @@
+*What I learnt from this task:*
+1. AI + job boards integration: Learned to connect Claude directly to Indeed via Claude Connectors for real-time job discovery.
+2. Automated job matching: Claude scans live Indeed listings and scores each job against my profile + gives match % for faster filtering.
+3. Skill-gap = roadmap: Got instant analysis on missing skills per job + exact courses/certifications to bridge them.
+4. Market demand insights: Claude showed which skills are trending in my target role so I can upskill with ROI.
+5. Profile-driven search: Creating a detailed professional profile first makes AI recommendations way more accurate than manual browsing.
+
+*Tools used:*
+1. Claude AI + Claude Connectors - Connect to Indeed, profile creation, job discovery, match scoring
+2. Indeed - Live job listings, company data, market trends
+3. Prompt sequence - Prompt 1: Profile, Prompt 2: Criteria, Prompt 3: Job discovery
+4. Git + GitHub - Day13 folder, day13.md, version control, commit & push
+5. Screenshot tool - Capture job matches, skill-gap analysis, market insights
